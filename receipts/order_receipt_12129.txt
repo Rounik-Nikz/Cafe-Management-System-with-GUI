@@ -1,0 +1,19 @@
+Order Summary
+Customer Name : Sharavni
+Order date time : Oct 29 ,2022   01:52:15 AM
+
+ item         | quantity | price    | total cost  
+ tea         | 1        | 10       | 10          
+ coffee      | 1        | 15       | 15          
+ pastery     | 2        | 80       | 160         
+ pizza       | 1        | 199      | 199         
+ fries       | 5        | 60       | 300         
+ burger      | 2        | 49       | 98          
+ pepsi       | 1        | 14       | 14          
+ cookies     | 2        | 4        | 8           
+
+SubCost : 804
+Service Charge : 32.16
+GST : 40.2
+Discount : 24.12
+Total Cost : 852.24
